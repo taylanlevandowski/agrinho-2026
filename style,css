@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Culturas de Alta Performance: Verão e Inverno</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Sucesso Agrícola</h1>
+            <p>Planejamento estratégico para safra e safrinha</p>
+        </div>
+    </header>
+
+    <main class="container">
+        
+        <section class="culturas-secao">
+            <h2>☀️ Culturas de Verão: Maior Produtividade e Lucro</h2>
+            <p class="intro">No período mais quente do ano, o foco total está no teto produtivo e no retorno financeiro por hectare.</p>
+            
+            <div class="cards-grid">
+                <div class="card">
+                    <h3>Soja</h3>
+                    <p><strong>Destaque:</strong> O "ouro verde" da agricultura brasileira. Possui alta liquidez no mercado internacional e responde muito bem à tecnologia de fertilização.</p>
+                </div>
+                <div class="card">
+                    <h3>Milho (1ª Safra)</h3>
+                    <p><strong>Destaque:</strong> Campeão em volume de massa e grãos por hectare quando plantado no verão. Excelente rentabilidade com o mercado de rações e etanol em alta.</p>
+                </div>
+                <div class="card">
+                    <h3>Algodão</h3>
+                    <p><strong>Destaque:</strong> Embora exija maior investimento inicial e manejo rigoroso, é uma das culturas de verão que oferece a maior margem de lucro líquido por área.</p>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section class="culturas-secao">
+            <h2>❄️ Culturas de Inverno: Melhor Cobertura e Palhada</h2>
+            <p class="intro">No inverno, a estratégia vai além do grão: busca-se plantas que protejam o solo, reciclem nutrientes e criem uma palhada resistente para o plantio direto.</p>
+            
+            <div class="cards-grid">
+                <div class="card inverno">
+                    <h3>Milheto</h3>
+                    <p><strong>Palhada:</strong> Produz uma quantidade massiva de matéria seca. Sua palhada tem excelente durabilidade e ajuda muito no controle de plantas daninhas.</p>
+                </div>
+                <div class="card inverno">
+                    <h3>Brachiaria (em consórcio)</h3>
+                    <p><strong>Palhada:</strong> O sistema radicular agressivo melhora a estrutura do solo, e a palhada residual permanece cobrindo a terra por muito tempo devido à alta relação C/N (Carbono/Nitrogênio).</p>
+                </div>
+                <div class="card inverno">
+                    <h3>Aveia Preta</h3>
+                    <p><strong>Palhada:</strong> Clássica do inverno sulista. Deixa um tapete uniforme de palha que protege o solo contra a erosão das chuvas da primavera e retém a umidade.</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Guia de Culturas Agrícolas. Desenvolvido para alta performance no campo.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
